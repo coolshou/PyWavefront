@@ -33,6 +33,7 @@
 # ----------------------------------------------------------------------------
 import pyglet
 from pyglet.gl import *
+from pyglet.gl.gl_compat import *
 
 from pywavefront import Wavefront
 from pywavefront.mesh import Mesh
