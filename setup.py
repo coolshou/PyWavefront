@@ -1,6 +1,6 @@
 from setuptools import setup
 
-VERSION = '1.3.3'
+VERSION = '1.3.4'
 
 setup(
     name='PyWavefront',
