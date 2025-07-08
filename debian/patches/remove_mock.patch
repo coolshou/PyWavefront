@@ -1,0 +1,12 @@
+Forwarded: https://github.com/pywavefront/PyWavefront/pull/152
+
+--- a/tests/test_cache.py
++++ b/tests/test_cache.py
+@@ -1,6 +1,6 @@
+ import json
+ import os
+-import mock
++from unittest import mock
+ import unittest
+ from pathlib import Path
+ 
